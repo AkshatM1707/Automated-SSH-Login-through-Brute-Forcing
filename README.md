@@ -7,7 +7,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/AkshatM1707/SSH-BruteForcing.py
+git clone https://github.com/AkshatM1707/Automated-SSH-Login-through-Brute-Forcing
 
 cd ssh-brute-forcer
 
