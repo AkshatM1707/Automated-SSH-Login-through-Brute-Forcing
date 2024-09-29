@@ -6,20 +6,17 @@ Usage
 Clone the Repository:
 
 bash
+```git clone https://github.com/AkshatM1707/Automated-SSH-Login-through-Brute-Forcing```
 
-git clone https://github.com/AkshatM1707/Automated-SSH-Login-through-Brute-Forcing
-
-cd ssh-brute-forcer
+```cd ssh-brute-forcer```
 
 Install Dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Run the Script:
 
-
-
-python ssh_brute_forcer.py
+```python ssh_brute_forcer.py```
 
 Follow the prompts to enter the target IP address and username.
 
